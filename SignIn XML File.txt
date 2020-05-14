@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="30dp"
+    android:background="@drawable/background"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/SignInEmailEditTextId"
+        android:inputType="textEmailAddress"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:hint="Email Address"
+        android:textColorHint="@color/neha"
+        android:textColor="@color/neha"
+        android:ems="10"
+        android:textSize="15sp"
+        android:layout_marginTop="330dp"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/SignInPasswordEditTextId"
+        android:inputType="textPassword"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:hint="Password"
+        android:textColorHint="@color/neha"
+        android:textColor="@color/colorAccent"
+        android:ems="10"
+        android:textSize="15sp"
+        android:layout_marginTop="20dp"
+        />
+
+    <Button
+        android:layout_marginTop="20dp"
+        android:id="@+id/SignInButtonId"
+        android:text="Sign In"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/SignUpNameEditTextId"
+        android:gravity="center"
+        android:layout_marginTop="40dp"
+        android:textColor="@color/neha"
+        android:text="Now here ? Register"
+        android:textSize="15sp"
+        />
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_gravity="center"
+        android:id="@+id/ProgressbarId"
+        />
+
+
+
+</LinearLayout>

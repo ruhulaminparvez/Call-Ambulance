@@ -1,0 +1,8 @@
+ <Button
+        android:id="@+id/btnBack6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back"
+        android:textSize="8dp"
+
+         />

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="30dp"
+    tools:context=".SignUp">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/SignUpNameEditTextId"
+        android:inputType="textPersonName"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:hint="Username"
+        android:textColor="@color/colorPrimary"
+        android:ems="10"
+        android:textSize="20sp"
+        android:layout_marginTop="100dp"
+        />
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/SignUpEmailEditTextId"
+        android:inputType="textEmailAddress"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:hint="Email Address"
+        android:textColor="@color/colorPrimary"
+        android:ems="10"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"
+        />
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/SignUpPasswordEditTextId"
+        android:inputType="textPassword"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:hint="Password"
+        android:textColor="@color/colorPrimary"
+        android:ems="10"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"
+        />
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/SignUpConfirmPasswordEditTextId"
+        android:inputType="textPassword"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:hint="Confirm Password"
+        android:textColor="@color/colorPrimary"
+        android:ems="10"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"
+        />
+
+    <Button
+        android:layout_marginTop="20dp"
+        android:id="@+id/SignUpButtonId"
+        android:text="Register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        />
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_gravity="center"
+        android:id="@+id/ProgressbarId"
+        />
+
+</LinearLayout>
