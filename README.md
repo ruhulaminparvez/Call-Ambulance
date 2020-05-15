@@ -22,15 +22,24 @@ An ambulance went out of control and it cause an accident, five people died and 
 # FEATURES
 
 	Provides all over Emergency Ambulance Service available in Bangladesh.
-	Service will provides within 30 Minutes
-	Less Cost
-	Customers will get proper classed vehicle as they want. 
-	Maximum Level Of Services
-	Every Ambulance will have the proper facilities for the patient
-	Users can easily track the ambulance
-	User can select  which kind of ambulance they want
-	User can review their journey of the Ambulance
-	We will make sure that every ambulance will have the proper trained ambulance helper  
+
+	Service will provides within 30 Minutes.
+
+	Less Cost.
+
+	Customers will get proper classed vehicle as they want.
+
+	Maximum Level Of Services.
+
+	Every Ambulance will have the proper facilities for the patient.
+
+	Users can easily track the ambulance.
+
+	User can select  which kind of ambulance they want.
+
+	User can review their journey of the Ambulance.
+
+	We will make sure that every ambulance will have the proper trained ambulance helper.  
 
 
 
