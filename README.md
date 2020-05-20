@@ -19,6 +19,13 @@ An ambulance went out of control and it cause an accident, five people died and 
 
 •	In The Daily Star Dr Raghib pointed out that if we can create a network of ambulances to deliver EMS, we can help many people despite the limitations. This could be mobile app based networks that would trigger an ambulance from the nearest source whenever there is a need.
 
+# TECHNOLOGIES
+
+ 1. Android Studio
+ 2. Java
+ 3. Firebase
+ 4. Real Time Database
+
 # FEATURES
 
 	Provides all over Emergency Ambulance Service available in Bangladesh.
