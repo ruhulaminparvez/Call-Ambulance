@@ -1,11 +1,11 @@
-# Call-Ambulance
+# Call-Ambulance 🚑 
 My DBMS Project, which is mainly created for understand SQL 🛠✌
 
-# INTRO
+# INTRO 🙂
 
 The Project want to work its name Call Ambulance. In our country Bangladesh Government officially launched the 999 emergency helpline. But it’s worked very slowly that’s way people get suffered. In our project call ambulance, we want to ensure that people have to a better emergency services in their critical moments. 
 
-# MOTIVATIONS
+# MOTIVATIONS 🗽🤞
 
 •	October 5 2018
 An ambulance went out of control and it cause an accident, five people died and also there was a patient who was pregnant. According to reporters the ambulance was not in good condition.
@@ -19,7 +19,7 @@ An ambulance went out of control and it cause an accident, five people died and 
 
 •	In The Daily Star Dr Raghib pointed out that if we can create a network of ambulances to deliver EMS, we can help many people despite the limitations. This could be mobile app based networks that would trigger an ambulance from the nearest source whenever there is a need.
 
-# TECHNOLOGIES
+# TECHNOLOGIES 🛠🚀
 
  1. Android Studio
  2. Java
@@ -28,7 +28,7 @@ An ambulance went out of control and it cause an accident, five people died and 
  5. Adobe XD (UI/UX Design)
  6. Flaticon
 
-# FEATURES
+# FEATURES 🧲
 
 	Provides all over Emergency Ambulance Service available in Bangladesh.
 
