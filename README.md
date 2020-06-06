@@ -51,7 +51,9 @@ An ambulance went out of control and it cause an accident, five people died and 
 	We will make sure that every ambulance will have the proper trained ambulance helper.  
 
 
+## BUGS
+
 > this is my very first project with java,
-> if there any known bugs found please let me know.
+> if there any known bugs found please let me know ☺
 
 
