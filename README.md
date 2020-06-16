@@ -21,12 +21,12 @@ An ambulance went out of control and it cause an accident, five people died and 
 
 ## TECHNOLOGIES 🛠🚀
 
- 1. Android Studio
- 2. Java
- 3. Firebase
+ **1. Android Studio**
+ **2. Java**
+ **3. Firebase
  4. Real Time Database
- 5. Adobe XD (UI/UX Design)
- 6. Flaticon
+ **5. Adobe XD (UI/UX Design)**
+ **6. Flaticon**
 
 ## FEATURES 🧲
 
