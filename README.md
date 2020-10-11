@@ -23,10 +23,11 @@ An ambulance went out of control and it cause an accident, five people died and 
 
  1. **Android Studio**
  2. **Java**
- 3. **Firebase**
- 4. **Real Time Database**
- 5. **Adobe XD (UI/UX Design)**
- 6. **Flaticon**
+ 3. **XML**
+ 4. **Firebase**
+ 5. **Real Time Database**
+ 6. **Adobe XD (UI/UX Design)**
+ 7. **Flaticon**
 
 ## FEATURES 🧲
 
