@@ -1,5 +1,5 @@
 ## Call-Ambulance 🚑 
-***My DBMS Project, which is mainly created for understand SQL 🛠✌***
+***My First Android Studio (DBMS Course) Project, which is mainly created for understand Android App Development, Java, SQL 🛠✌***
 
 ## INTRO 🙂
 
