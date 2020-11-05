@@ -1,14 +1,14 @@
 ## Call-Ambulance 🚑 
-***My First Android Studio (DBMS Course) Project, which is mainly created for understand Android App Development, Java, SQL 🛠✌***
+***My First Android Studio (DBMS Course) Project, which is mainly created to understand Android App Development, Java, SQL 🛠✌***
 
 ### INTRO 🙂
 
-*The Project want to work its name *📞Call Ambulance🚑.* In our country Bangladesh Government officially launched the 999 emergency helpline. But it’s worked very slowly that’s way people get suffered. In our project call ambulance, we want to ensure that people have to a better emergency services in their critical moments.*
+**The Project wants to work its name *📞Call Ambulance🚑.* In our country Bangladesh Government officially launched the 999 emergency helpline. But it’s worked very slowly that’s why people get suffered. In our project call ambulance, we want to ensure that people have better emergency services in their critical moments.*
 
 ### MOTIVATIONS 🗽🤞
 
-•	*October 5 2018
-An ambulance went out of control and it cause an accident, five people died and also there was a patient who was pregnant. According to reporters the ambulance was not in good condition.*
+•	*October 5, 2018
+An ambulance went out of control and it causes an accident, five people died, and also there was a patient who was pregnant. According to reporters, the ambulance was not in good condition.*
 
 •	*An untrained ambulance helper ran over the victims at the entrance of Dhaka Medical College Hospital (DMCH) emergency gate during the accident, according to Dhaka Tribune reports.*
 
@@ -17,7 +17,7 @@ An ambulance went out of control and it cause an accident, five people died and 
 
 •	*“Usually a microbus is converted to an ambulance and is registered under the microbus category, not as an ambulance,” said Newaz, an assistant professor at Accident Research Institute of Buet.*
 
-•	*In The Daily Star Dr Raghib pointed out that if we can create a network of ambulances to deliver EMS, we can help many people despite the limitations. This could be mobile app based networks that would trigger an ambulance from the nearest source whenever there is a need.*
+•	*In The Daily Star Dr. Raghib pointed out that if we can create a network of ambulances to deliver EMS, we can help many people despite the limitations. This could be mobile app-based networks that would trigger an ambulance from the nearest source whenever there is a need.*
 
 ### TECHNOLOGIES 🛠🚀
 
@@ -33,11 +33,11 @@ An ambulance went out of control and it cause an accident, five people died and 
 
 	*Provides all over Emergency Ambulance Service available in Bangladesh.*
 
-	*Service will provides within 30 Minutes.*
+	*Service will provide within 30 Minutes.*
 
 	*Less Cost.*
 
-	*Customers will get proper classed vehicle as they want.*
+	*Customers will get the proper classed vehicles as they want.*
 
 	*Maximum Level Of Services.*
 
@@ -49,7 +49,7 @@ An ambulance went out of control and it cause an accident, five people died and 
 
 	*User can review their journey of the Ambulance.*
 
-	*We will make sure that every ambulance will have the proper trained ambulance helper.*
+	*We will make sure that every ambulance will have a properly trained ambulance helper.*
 
 
 ### BUGS 😢
