@@ -17,7 +17,7 @@
             android:id="@+id/featured_image"
             android:layout_width="match_parent"
             android:layout_height="140dp"
-            android:src="@drawable/ambulance_back"
+            android:src="@drawable/ambulance_back_two"
             android:scaleType="centerCrop"/>
 
         <TextView

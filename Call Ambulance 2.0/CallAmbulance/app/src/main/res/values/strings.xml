@@ -33,10 +33,22 @@
     <!-- Titles and Descriptions -->
     <string name="featured_locations">All Featured Locations</string>
     <string name="featured_locations_description">All the locations that are featured and have the top demand in town!</string>
-    <string name="most_viewed_locations">Most Viewed</string>
+    <string name="most_viewed_locations">Most Popular</string>
     <string name="categories">Categories</string>
     <string name="view_all">View All</string>
     <string name="search_text">Search...</string>
+
+    <!-- Navigation Drawer Manu -->
+    <string name="home">Home</string>
+    <string name="all_categories">All Categories</string>
+    <string name="search">Search</string>
+    <string name="login">LogIn</string>
+    <string name="profile">Profile</string>
+    <string name="logout">LogOut</string>
+    <string name="about">Creator</string>
+    <string name="share">Share</string>
+    <string name="rate">Rate My Work</string>
+
 
 
 </resources>

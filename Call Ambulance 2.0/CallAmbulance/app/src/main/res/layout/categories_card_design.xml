@@ -8,12 +8,14 @@
     android:layout_margin="12sp">
 
     <RelativeLayout
+        android:id="@+id/cg_back"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:padding="15dp"
-        android:background="@drawable/card_2">
+        android:background="@drawable/card_1">
 
         <TextView
+            android:id="@+id/cg_title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Normal"
@@ -21,6 +23,7 @@
             android:fontFamily="sans-serif-black"/>
 
         <ImageView
+            android:id="@+id/cg_image"
             android:layout_width="110dp"
             android:layout_height="110dp"
             android:src="@drawable/normal"

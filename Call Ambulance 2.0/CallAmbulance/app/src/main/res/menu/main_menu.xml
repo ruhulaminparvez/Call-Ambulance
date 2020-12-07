@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/home"
+            android:icon="@drawable/home_nav"/>
+
+        <item
+            android:id="@+id/nav_search"
+            android:title="@string/search"
+            android:icon="@drawable/search_nav"/>
+
+        <item
+            android:id="@+id/nav_all_categories"
+            android:title="@string/all_categories"
+            android:icon="@drawable/categories_nav"/>
+
+
+
+
+    </group>
+
+    <item android:title="Profile">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_login"
+                    android:title="@string/login"
+                    android:icon="@drawable/login_nav"/>
+
+                <item
+                    android:id="@+id/nav_profile"
+                    android:title="@string/profile"
+                    android:icon="@drawable/profile_nav_two"/>
+
+                <item
+                    android:id="@+id/nav_logout"
+                    android:title="@string/logout"
+                    android:icon="@drawable/logout_nav"/>
+
+
+
+
+            </group>
+        </menu>
+
+    </item>
+
+    <item android:title="Categories">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_hire"
+                    android:title="@string/hire"
+                    android:icon="@drawable/hire_nav"/>
+
+                <item
+                    android:id="@+id/nav_hospital"
+                    android:title="@string/hospitals"
+                    android:icon="@drawable/hospital_nav"/>
+
+                <item
+                    android:id="@+id/nav_payment"
+                    android:title="@string/payment"
+                    android:icon="@drawable/payment_nav"/>
+
+                <item
+                    android:id="@+id/nav_call"
+                    android:title="@string/call"
+                    android:icon="@drawable/call_nav"/>
+
+
+
+
+            </group>
+        </menu>
+
+    </item>
+
+    <item android:title="About">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_about"
+                    android:title="@string/about"
+                    android:icon="@drawable/creator_nav"/>
+
+
+            </group>
+        </menu>
+
+    </item>
+
+    <item android:title="Share">
+        <menu>
+            <group android:checkableBehavior="none">
+                <item
+                    android:id="@+id/nav_share"
+                    android:title="@string/share"
+                    android:icon="@drawable/search_nav"/>
+
+                <item
+                    android:id="@+id/nav_rate_us"
+                    android:title="@string/rate"
+                    android:icon="@drawable/rate_nav"/>
+
+
+            </group>
+        </menu>
+
+    </item>
+
+</menu>
