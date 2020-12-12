@@ -46,7 +46,7 @@ An ambulance went out of control and it causes an accident, five people died, an
 
 ### BUGS 😢
 
-> *this is my very first project with java,if there any known bugs found please let me know.
+> *if there any known bugs found please let me know.
 Please enjoy and feel free to share your opinion, constructive criticism, or comments about my work.*
 >*Email: 👉 ruhulaminparvez007@gmail.com 😊 Thank you!*
 
