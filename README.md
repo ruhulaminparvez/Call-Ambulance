@@ -26,7 +26,7 @@ An ambulance went out of control and it causes an accident, five people died, an
  - Adobe XD (UI/UX Design)
    - Icons (Flaticon, Iconfinder)
  
-### Language 🛢
+### LANGUAGES 🛢
 
 - Java
 - XML
