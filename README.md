@@ -3,7 +3,7 @@ This is an Amazing project, the call ambulance is an emergency transportation ne
 
 ### INTRO 🙂
 
-*The Project wants to work its name ***📞Call Ambulance🚑.*** In our country Bangladesh Government officially launched the 999 emergency helpline. But it’s worked very slowly that’s why people get suffered. In our project call ambulance, we want to ensure that people have better emergency services in their critical moments.*
+The Project wants to work its name ***📞Call Ambulance🚑.*** In our country Bangladesh Government officially launched the 999 emergency helpline. But it’s worked very slowly that’s why people get suffered. In our project call ambulance, we want to ensure that people have better emergency services in their critical moments.
 
 ### MOTIVATIONS 🗽🤞
 
