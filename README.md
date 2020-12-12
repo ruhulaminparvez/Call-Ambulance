@@ -1,5 +1,5 @@
 ## Call-Ambulance 🚑 
-This is an Amazing project, the call ambulance is an emergency transportation network-based, easy to know ride-hailing ambulance app.  🛠✌
+This is an amazing project, the call ambulance is an emergency transportation network-based, easy to know ride-hailing ambulance app.  🛠✌
 
 ### INTRO 🙂
 
