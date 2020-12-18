@@ -44,6 +44,9 @@ An ambulance went out of control and it causes an accident, five people died, an
 - User can review their journey of the Ambulance.
 - We will make sure that every ambulance will have a properly trained ambulance helper.
 
+### INSTALLATION/DEPLOYED VERSION 💉
+👉 [Call Ambulance Apk] (https://github.com/Ruhul12/Call-Ambulance/blob/master/release%20apk/app-release.apk)
+
 ### BUGS 😢
 
 > *if there any known bugs found please let me know.
