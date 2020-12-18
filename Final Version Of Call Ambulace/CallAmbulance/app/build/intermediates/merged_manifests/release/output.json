@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.ruhulamin.callambulance",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 1,
+        "versionName": "1.0",
+        "outputFile": "app-release.apk",
+        "fullName": "release",
+        "baseName": "release",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.ruhulamin.callambulance",
+        "split": "",
+        "minSdkVersion": "16"
+      }
+    }
+  ]
+}

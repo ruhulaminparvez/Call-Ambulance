@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "279128197610",
+    "project_id": "call-ambulance-9022a",
+    "storage_bucket": "call-ambulance-9022a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279128197610:android:c519dc958969d77f0cca93",
+        "android_client_info": {
+          "package_name": "com.ruhulamin.callambulance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279128197610-ntt0dbvpm81a843gni2t9c45eau3nlrl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ruhulamin.callambulance",
+            "certificate_hash": "b6fac5c33baf376876842267fd1f736d690baa31"
+          }
+        },
+        {
+          "client_id": "279128197610-jv4higa6mo4k2r78vtopmaip3cf7gu08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcyA7zAS_ZXwrHOZ4XeXXMJz4X4PECLxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279128197610-jv4higa6mo4k2r78vtopmaip3cf7gu08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

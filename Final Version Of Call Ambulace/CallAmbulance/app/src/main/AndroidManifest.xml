@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ruhulamin.callambulance">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Types.Normal"></activity>
+        <activity android:name=".Types.Medium" />
+        <activity android:name=".Types.Delux" />
+        <activity android:name=".User.Features.Types" />
+        <activity android:name=".User.Features.Hospital" />
+        <activity android:name=".User.Features.ConfirmHire" />
+        <activity android:name=".LoginSignup.Signup" />
+        <activity android:name=".LoginSignup.Login" />
+        <activity android:name=".User.Features.Hire" />
+        <activity android:name=".User.Features.Payment" />
+        <activity android:name=".User.Creator" />
+        <activity android:name=".User.AllCategories" />
+        <activity android:name=".Common.OnBoarding" />
+        <activity android:name=".User.UserDashboard" />
+        <activity android:name=".Common.SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

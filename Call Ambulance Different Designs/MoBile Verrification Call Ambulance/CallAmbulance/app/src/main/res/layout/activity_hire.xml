@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/hire_ride"
+    android:orientation="vertical"
+    tools:context=".User.Features.Hire">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize">
+
+        <ImageView
+            android:id="@+id/back_pressed_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/back_btn_icon"
+            android:padding="15dp"
+            android:layout_marginTop="10dp"
+            android:layout_centerVertical="true"/>
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="30dp"
+        android:orientation="vertical">
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:hint="Where you want your ambulance?"
+        app:hintTextColor="@color/black"
+        app:boxStrokeColor="@color/black"
+        android:layout_marginTop="50dp"
+        app:boxStrokeWidthFocused="2dp"
+        app:startIconDrawable="@drawable/location_icon"
+        app:startIconTint="@color/black"
+        app:endIconMode="clear_text"
+        app:endIconTint="@color/black">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="sans-serif-black"
+            android:textColor="@color/black"
+            android:inputType="text"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:hint="Phone Number"
+        app:hintTextColor="@color/black"
+        app:boxStrokeColor="@color/black"
+        app:boxStrokeWidthFocused="2dp"
+        app:startIconDrawable="@drawable/call_nav"
+        app:startIconTint="@color/black"
+        app:endIconMode="clear_text"
+        app:endIconTint="@color/black">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="sans-serif-black"
+            android:textColor="@color/black"
+            android:inputType="phone"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Choose Type Of Ambulance"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            android:textSize="18sp"/>
+
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp">
+
+            <RadioButton
+                android:id="@+id/radioButton3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="DELUX"/>
+
+            <RadioButton
+                android:id="@+id/radioButton2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="MEDIUM"/>
+
+            <RadioButton
+                android:id="@+id/radioButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="NORMAL"/>
+
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/confirm_hire_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Call Ambulance"
+            android:onClick="callAmbulance"
+            android:textColor="@color/white"
+            android:background="@color/green"
+            android:layout_marginTop="30dp"
+            android:elevation="5dp"
+            android:layout_gravity="center"
+            android:transitionName="transition_next_btn"/>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

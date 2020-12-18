@@ -1,0 +1,1942 @@
+[
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_search_one.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\search_one.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_search_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\search_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hospital_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\hospital_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_search.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_profile_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\profile_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_ambulance_main.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\menu_ambulance_main.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_tab_fragment.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\layout\\login_tab_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rate_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\rate_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ambulance_back.jpg.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\ambulance_back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_ambulance_main.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\menu_ambulance_main.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nav_creator_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\nav_creator_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_location_four.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\location_four.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_payment_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\payment_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ambulance_five.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\ambulance_five.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_delux_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\delux_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hospital_three.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\hospital_three.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ambulance_four.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\ambulance_four.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_green_background.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\green_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hospital_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\hospital_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nav_share_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\nav_share_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_home_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\home_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_2.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\card_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\layout_most_recent_card_design.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\layout\\most_recent_card_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location_four.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\location_four.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_search_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\search_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_creator.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\layout\\activity_creator.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\layout_categories_card_design.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\layout\\categories_card_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_new_white_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\new_white_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_icon_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\menu_icon_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_payment_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\payment_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_call_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\call_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_nav_menu_ambulance.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\nav_menu_ambulance.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_menu_ambulance.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\nav_menu_ambulance.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_new_white_ambulace_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\new_white_ambulace_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_categories_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\categories_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_payment.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\payment.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_ambulance_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\menu_ambulance_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ambulance_four.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\ambulance_four.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile_nav_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\profile_nav_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_delux.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\delux.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_log_in.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\layout\\activity_log_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_search_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\search_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_ambulance_main.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_ambulance_main.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hire_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\hire_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_nav_menu_ambulance.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\nav_menu_ambulance.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_normal.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\normal.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wait.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\wait.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ambulance_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\ambulance_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_make_call_three.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\make_call_three.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_rate_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\rate_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_creator_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\creator_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_hospital_three.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\hospital_three.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ambulance_back_two.jpg.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\ambulance_back_two.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_delux_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\delux_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_normal_details.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\normal_details.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_google_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\google_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_icon.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hospital.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\hospital.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_location_six.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\location_six.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_yellow_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\yellow_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_google_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\google_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_medium.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\medium.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_next_btn.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\next_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_header.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\layout\\menu_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_call_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\call_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_my_profile.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\my_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_creator_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\nav_creator_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_payment.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\payment.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_main_ambulance.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\menu_main_ambulance.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_twittr_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\twittr_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_payment.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\payment.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_next_btn.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\next_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_back_btn_icon.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\back_btn_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_ambulace_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\blue_ambulace_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hire_ride.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\hire_ride.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_icon.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_text_bg.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\edit_text_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_ambulance_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_ambulance_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_new_white_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\new_white_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_normal_details.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\normal_details.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_delux_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\delux_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_delux_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\delux_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_main_ambulance.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_main_ambulance.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back_btn_icon.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\back_btn_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_ambulace_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\blue_ambulace_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_location_six.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\location_six.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ambulance_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\ambulance_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hospital.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\hospital.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ambulance_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\ambulance_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_ambulance_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\menu_ambulance_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logout_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\logout_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_my_profile.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\my_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ambulance_back.jpg.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\ambulance_back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_facebook_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\facebook_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_profile_nav_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\profile_nav_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_search_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\search_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_new_white_ambulace_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\new_white_ambulace_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_location.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_nav_creator_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\nav_creator_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mid_details.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\mid_details.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back_btn_icon.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\back_btn_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pink_background.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\pink_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hospital_three.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\hospital_three.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_profile_nav_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\profile_nav_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\blue_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_share_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\nav_share_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_hospital.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\hospital.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_hospital_three.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\hospital_three.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ambulance_back.jpg.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\ambulance_back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_make_phn_call.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\make_phn_call.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_icon_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\menu_icon_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_nav_share_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\nav_share_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_insta.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\insta.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_4.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\card_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_nav_menu_ambulance.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\nav_menu_ambulance.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_blue_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\blue_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\home_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hospital_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\hospital_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_rate_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\rate_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_location.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logout_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\logout_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_creator_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\creator_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_mid_details.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\mid_details.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_icon_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_icon_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_back_btn_icon.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\back_btn_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hire_ride.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\hire_ride.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_delux.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\delux.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_categories_medium_background.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\categories_medium_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_yellow_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\yellow_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_nav_creator_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\nav_creator_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_location_six.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\location_six.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_payment_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\payment_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_normal_details.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\normal_details.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_ambulance_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\menu_ambulance_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\search_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ambulance_back_two.jpg.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\ambulance_back_two.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_call_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\call_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_payment_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\payment_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blue_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\blue_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_payment_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\payment_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_icon.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_nav_share_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\nav_share_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_nav_share_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\nav_share_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_profile_nav_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\profile_nav_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_normal_details.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\normal_details.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_share_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\share_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_ambulace_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\blue_ambulace_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_call_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\call_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\profile_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_rate_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\rate_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_main_ambulance.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\menu_main_ambulance.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mid_details.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\mid_details.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\search_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_payment_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\payment_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_location_four.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\location_four.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_my_profile.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\my_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ambulance_six.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\ambulance_six.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_payment.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\payment.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_rate_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\rate_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_google_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\google_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_creator_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\creator_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ambulance_back.jpg.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\ambulance_back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hospital_three.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\hospital_three.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_location.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_insta.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\insta.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_yellow_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\yellow_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ambulance_four.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\ambulance_four.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_green_background.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\green_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_delux_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\delux_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_blue_ambulace_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\blue_ambulace_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\facebook_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_ambulance_main.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\menu_ambulance_main.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_ambulance_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\menu_ambulance_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_google_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\google_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_hospital_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\hospital_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_back_btn_icon.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\back_btn_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logout_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\logout_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_ambulace_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_ambulace_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ambulance_four.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\ambulance_four.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hire_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\hire_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\search_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_green_background.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\green_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_green_background.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\green_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_hire_ride.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\hire_ride.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_payment_three.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\payment_three.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_dashboard.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\layout\\activity_user_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_delux_details.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\delux_details.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_location_six.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\location_six.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ambulance_six.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\ambulance_six.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_make_phn_call.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\make_phn_call.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_search_one.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\search_one.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_twittr_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\twittr_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ambulance_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\ambulance_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_hire_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\hire_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ambulance_back.jpg.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\ambulance_back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_yellow_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\yellow_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_main_ambulance.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\menu_main_ambulance.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ambulance_four.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\ambulance_four.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_search_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\search_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ambulance_six.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\ambulance_six.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mid_details.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\mid_details.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_icon.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_location_four.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\location_four.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_creator_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\creator_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\search_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_ambulance_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\menu_ambulance_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_share_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\share_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location_six.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\location_six.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hospital.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\hospital.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_main_ambulance.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\menu_main_ambulance.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_search_one.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\search_one.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_payment_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\payment_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom_anim.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\anim\\bottom_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\layout_featured_card_design.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\layout\\featured_card_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rate_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\rate_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_categories_delux_background.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\categories_delux_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_hire_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\hire_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_call_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\call_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_back_btn_icon.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\back_btn_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_hospital.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\hospital.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_normal.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\normal.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mid_details.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\mid_details.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_new_white_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\new_white_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_locaton_four.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\locaton_four.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_green_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\green_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_login_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\login_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_categories_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\categories_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_hospital_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\hospital_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_creator_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\creator_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_nav_share_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\nav_share_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\anim_side_anim.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\anim\\side_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pink_background.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\pink_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_normal_details.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\normal_details.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_normal.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\normal.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_location.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_search_one.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\search_one.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_delux.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\delux.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_yellow_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\yellow_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ambulance_five.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\ambulance_five.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_insta.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\insta.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ambulance_back.jpg.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\ambulance_back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_facebook_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\facebook_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_1.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\card_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_hospital_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\hospital_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_profile_nav_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\profile_nav_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_next_btn.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\next_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ambulance_back_two.jpg.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\ambulance_back_two.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_categories_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\categories_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_profile_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\profile_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\logout_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blue_ambulace_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\blue_ambulace_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_call_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\call_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_payment_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\payment_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\blue_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_home_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\home_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_search_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\search_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_green_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\green_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_payment.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\payment.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_next_btn.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\next_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_payment_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\payment_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_icon_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\menu_icon_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_categories_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\categories_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_make_phn_call.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\make_phn_call.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_all_categories.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\layout\\activity_all_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_insta.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\insta.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_new_white_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\new_white_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_categories_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\categories_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\login_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_location_four.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\location_four.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_3.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\card_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_facebook_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\facebook_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_green_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\green_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ambulance_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\ambulance_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ambulance_six.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\ambulance_six.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_payment_three.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\payment_three.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_hire_ride.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\hire_ride.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_location.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_facebook_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\facebook_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_insta.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\insta.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_mid_details.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\mid_details.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_medium.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\medium.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_main_ambulance.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\menu_main_ambulance.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_ambulace_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\blue_ambulace_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_hospital_three.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\hospital_three.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ambulance_six.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\ambulance_six.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_payment_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\payment_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ambulance_back_two.jpg.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\ambulance_back_two.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ambulance_five.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\ambulance_five.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_delux_details.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\delux_details.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search_one.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\search_one.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_new_white_ambulace_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\new_white_ambulace_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\share_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_share_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\share_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_search.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rate_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\rate_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logout_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\logout_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pink_background.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\pink_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_normal.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\normal.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hospital_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\hospital_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_search_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\search_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_delux.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\delux.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_share_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\share_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\blue_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_one.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\search_one.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ambulance_six.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\ambulance_six.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_normal_details.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\normal_details.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_categories_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\categories_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ambulance_five.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\ambulance_five.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_make_phn_call.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\make_phn_call.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_payment_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\payment_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ambulance_five.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\ambulance_five.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_payment_three.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\payment_three.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wait.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\wait.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_creator_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\creator_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_search.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_hospital_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\hospital_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_delux_details.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\delux_details.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_login_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\login_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_hire_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\hire_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_login_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\login_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hospital_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\hospital_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_nav_creator_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\nav_creator_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_payment_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\payment_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_location.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_my_profile.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\my_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_medium.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\medium.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_pink_background.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\pink_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_make_phn_call.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\make_phn_call.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_green_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\green_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_search_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\search_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hospital.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\hospital.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hospital_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\hospital_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_icon_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\menu_icon_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logout_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\logout_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_make_phn_call.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\make_phn_call.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_one.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\search_one.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_new_white_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\new_white_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_google_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\google_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_login_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\login_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_normal.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\normal.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_delux.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\delux.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_pink_background.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\pink_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_medium.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\medium.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hospital_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\hospital_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_hospital_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\hospital_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_ambulance_main.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\menu_ambulance_main.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_hospital_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\hospital_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ambulance_five.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\ambulance_five.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_next_btn.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\next_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_ambulance_main.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\menu_ambulance_main.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_nav_creator_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\nav_creator_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_hospital.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\hospital.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_payment_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\payment_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_google_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\google_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_location_four.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\location_four.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hospital_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\hospital_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_call_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\call_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_new_white_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\new_white_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_ambulance_main.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\menu_ambulance_main.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_nav_menu_ambulance.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\nav_menu_ambulance.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\search_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_medium.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\medium.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ambulance_back_two.jpg.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\ambulance_back_two.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_delux.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\delux.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ambulance_four.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\ambulance_four.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_delux_details.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\delux_details.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hire_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\hire_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_green_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\green_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_make_phn_call.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\make_phn_call.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hospital_three.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\hospital_three.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_new_white_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\new_white_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\home_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ambulance_four.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\ambulance_four.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\home_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twittr_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\twittr_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ambulance_back_two.jpg.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\ambulance_back_two.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_location_four.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\location_four.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_icon_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\menu_icon_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\search_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\home_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_twittr_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\twittr_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_wait.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\wait.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pink_background.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\pink_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hire_ride.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\hire_ride.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_yellow_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\yellow_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_my_profile.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\my_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_payment_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\payment_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_payment_three.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\payment_three.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_nav_creator_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\nav_creator_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_new_white_ambulace_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\new_white_ambulace_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_insta.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\insta.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_payment_three.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\payment_three.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_normal.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\normal.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_profile_nav_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\profile_nav_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_search.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ambulance_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\ambulance_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_facebook_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\facebook_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_new_white_ambulace_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\new_white_ambulace_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_creator_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\creator_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_categories_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\categories_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_medium.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\medium.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hire_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\hire_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_wait.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\wait.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hire.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\layout\\activity_hire.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_profile_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\profile_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_payment.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_nav_menu_ambulance.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\nav_menu_ambulance.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_my_profile.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\my_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_delux_details.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\delux_details.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_delux_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\delux_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_main_ambulance.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\menu_main_ambulance.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_profile_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\profile_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_nav_share_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\nav_share_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_green_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\green_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_back_btn_icon.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\back_btn_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_hire_ride.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\hire_ride.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_icon.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ambulance_back.jpg.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\ambulance_back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_my_profile.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\my_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nav_menu_ambulance.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\nav_menu_ambulance.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_twittr_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\twittr_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\layout_signup_tab_fragment.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\layout\\signup_tab_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_wait.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\wait.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ambulance_back_two.jpg.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\ambulance_back_two.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_profile_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\profile_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yellow_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\yellow_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash_screen.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_location_six.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\location_six.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_green_background.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\green_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_share_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\share_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_profile_nav_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\profile_nav_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_payment_three.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\payment_three.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_payment.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-ldpi\\payment.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_icon.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_green_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\green_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\home_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_new_white_ambulace_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\new_white_ambulace_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ambulance_five.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\ambulance_five.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_share_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\share_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_ambulance_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\menu_ambulance_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_wait.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\wait.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ambulance_six.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\ambulance_six.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_profile_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\profile_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vie_bg.xml.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\vie_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_twittr_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\twittr_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_location_six.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\location_six.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_payment.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxxhdpi\\payment.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_login_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\login_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_delux_details.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xhdpi\\delux_details.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_new_white_ambulace_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\new_white_ambulace_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ambulance_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\ambulance_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable\\login_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_next_btn.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-mdpi\\next_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_icon_two.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\menu_icon_two.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_ambulace.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\blue_ambulace.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_icon.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logout_nav.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-hdpi\\logout_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_green_background.png.flat",
+        "source": "C:\\Users\\DCL\\AndroidStudioProjects\\CallAmbulance\\app\\src\\main\\res\\drawable-xxhdpi\\green_background.png"
+    }
+]
