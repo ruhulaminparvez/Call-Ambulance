@@ -8,7 +8,7 @@ This ***📞Call Ambulance🚑.*** provides the best service of the emergency la
 ### DEMONSTRATION 👇
 ##### SIGN IN
 <p align="left">
-  <img width="256" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/login.png">
+  <img width="356" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/login.png">
 </p>
 
 ### MOTIVATIONS 🗽🤞
