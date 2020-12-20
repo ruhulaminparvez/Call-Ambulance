@@ -20,6 +20,10 @@ This ***📞Call Ambulance🚑.*** provides the best service of the emergency la
   <img width="256" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/signup.png">
   <img width="256" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/gender.png">
   <img width="256" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/country_code.png">
+</p>
+
+##### VERIFICATION
+<p>
   <img width="256" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/verification_code.png">
 </p>
 
