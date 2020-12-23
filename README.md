@@ -33,6 +33,22 @@ This ***📞Call Ambulance🚑.*** provides the best service of the emergency la
   <img width="256" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/dashboard_two.png">
 </p>
 
+##### HIRE
+<p>
+  <img width="256" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/hire.png">
+</p>
+
+##### TYPES
+<p>
+  <img width="256" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/hire.png">
+</p>
+
+##### CREATOR
+<p>
+  <img width="256" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/creator.png">
+</p>
+
+
 ### MOTIVATIONS 🗽🤞
 
 •	October 5, 2018
