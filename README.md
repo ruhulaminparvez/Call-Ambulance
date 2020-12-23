@@ -40,7 +40,11 @@ This ***📞Call Ambulance🚑.*** provides the best service of the emergency la
 
 ##### CATEGORIES
 <p>
+  <img width="256" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/categories.png">
   <img width="256" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/categories_two.png">
+</p>
+
+<p>
   <img width="256" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/normal.png">
   <img width="256" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/medium.png">
   <img width="256" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/delux.png">
