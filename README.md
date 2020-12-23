@@ -38,9 +38,18 @@ This ***📞Call Ambulance🚑.*** provides the best service of the emergency la
   <img width="256" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/hire.png">
 </p>
 
-##### TYPES
+##### CATEGORIES
 <p>
-  <img width="256" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/hire.png">
+  <img width="256" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/categories_two.png">
+  <img width="256" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/normal.png">
+  <img width="256" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/medium.png">
+  <img width="256" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/delux.png">
+</p>
+
+##### DRAWER MENU
+<p>
+  <img width="256" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/drawer_menu.png">
+  <img width="256" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/drawer_two.png">
 </p>
 
 ##### CREATOR
