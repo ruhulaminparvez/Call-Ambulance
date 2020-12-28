@@ -1,13 +1,13 @@
 ## Call-Ambulance 🚑 
 This is an amazing project, the call ambulance is an emergency transportation network-based, easy to know ride-hailing ambulance app.  🛠✌
 
-- [INTRO](#INTRO)
-- [DEMOSTRATION](#DEMOSTRATION)
-- [MOTIVATIONS](#MOTIVATIONS)
-- [TECHNOLOGIES](#TECHNOLOGIES)
-- [LANGUAGES](#LANGUAGES)
-- [FEATURES](#FEATURES)
-- [INSTALLATION/DEPLOYED VERSION](#INSTALLATION?DEPLOYED-VERSION)
+- [INTRO](#intro-)
+- [DEMOSTRATION](#demonstration-)
+- [MOTIVATIONS](#motivations-)
+- [TECHNOLOGIES](#technologies-)
+- [LANGUAGES](#languages-)
+- [FEATURES](#features-)
+- [INSTALLATION/DEPLOYED VERSION](#installationdeployed-version-)
 
 ### INTRO 🙂
 
