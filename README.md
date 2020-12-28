@@ -1,7 +1,7 @@
 ## Call-Ambulance 🚑 
 This is an amazing project, the call ambulance is an emergency transportation network-based, easy to know ride-hailing ambulance app.  🛠✌
 
-- [INTRO](#intro-)
+- [INTRODUCTION](#introduction-)
 - [DEMOSTRATION](#demonstration-)
 - [MOTIVATIONS](#motivations-)
 - [TECHNOLOGIES](#technologies-)
@@ -9,44 +9,44 @@ This is an amazing project, the call ambulance is an emergency transportation ne
 - [FEATURES](#features-)
 - [INSTALLATION/DEPLOYED VERSION](#installationdeployed-version-)
 
-### INTRO 🙂
+#### INTRODUCTION 🙂
 
 This ***📞Call Ambulance🚑.*** provides the best service of the emergency lane on the way to the hospital. Also, it gives its user the proper relief on the journey to any hospital. In our country Bangladesh Government officially launched the 999 emergency helpline. But it’s worked very slowly that’s why people get suffered. In our project call ambulance, we want to ensure that people have better emergency services in their critical moments.
 
-### DEMONSTRATION 👇
+#### DEMONSTRATION 👇
 <p align="left">
   <img width="256" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/call_ambulance.gif">
 </p>
 
-##### SIGN IN
+###### SIGN IN
 <p align="left">
   <img width="156" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/login.png">
 </p>
 
-##### SIGNUP
+###### SIGNUP
 <p>
   <img width="156" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/signup.png">
   <img width="156" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/gender.png">
   <img width="156" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/country_code.png">
 </p>
 
-##### VERIFICATION
+###### VERIFICATION
 <p>
   <img width="156" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/verification_code.png">
 </p>
 
-##### DASHBOARD
+###### DASHBOARD
 <p>
   <img width="156" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/dashboard.png">
   <img width="156" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/dashboard_two.png">
 </p>
 
-##### HIRE
+###### HIRE
 <p>
   <img width="156" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/hire.png">
 </p>
 
-##### CATEGORIES
+###### CATEGORIES
 <p>
   <img width="156" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/categories.png">
   <img width="156" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/categories_two.png">
@@ -58,19 +58,19 @@ This ***📞Call Ambulance🚑.*** provides the best service of the emergency la
   <img width="156" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/delux.png">
 </p>
 
-##### DRAWER MENU
+###### DRAWER MENU
 <p>
   <img width="156" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/drawer_menu.png">
   <img width="156" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/drawer_two.png">
 </p>
 
-##### CREATOR
+###### CREATOR
 <p>
   <img width="156" src="https://github.com/Ruhul12/Call-Ambulance/blob/master/Call%20Ambulance%20Different%20Designs/ScreenShots/creator.png">
 </p>
 
 
-### MOTIVATIONS 🗽🤞
+#### MOTIVATIONS 🗽🤞
 
 •	October 5, 2018
 An ambulance went out of control and it causes an accident, five people died, and also there was a patient who was pregnant. According to reporters, the ambulance was not in good condition.
@@ -84,19 +84,19 @@ An ambulance went out of control and it causes an accident, five people died, an
 
 •	In The Daily Star Dr. Raghib pointed out that if we can create a network of ambulances to deliver EMS, we can help many people despite the limitations. This could be mobile app-based networks that would trigger an ambulance from the nearest source whenever there is a need.
 
-### TECHNOLOGIES 🛠🚀
+#### TECHNOLOGIES 🛠🚀
 
  - Android Studio
  - Firebase (Authentication, Real Time Database, JSON)
  - Adobe XD (UI/UX Design)
    - Icons (Flaticon, Iconfinder)
  
-### LANGUAGES 🛢
+#### LANGUAGES 🛢
 
 - Java
 - XML
 
-### FEATURES 🧲
+#### FEATURES 🧲
 
 - Provides all over Emergency Ambulance Service available in Bangladesh.
 - Service will provide within 30 Minutes.
@@ -109,10 +109,10 @@ An ambulance went out of control and it causes an accident, five people died, an
 - User can review their journey of the Ambulance.
 - We will make sure that every ambulance will have a properly trained ambulance helper.
 
-### INSTALLATION/DEPLOYED VERSION 💉
+#### INSTALLATION/DEPLOYED VERSION 💉
 👉 [Call Ambulance Apk](https://github.com/Ruhul12/Call-Ambulance/blob/master/release%20apk/app-release.apk)
 
-### BUGS 😢
+#### BUGS 😢
 
 > *if there any known bugs found please let me know.
 Please enjoy and feel free to share your opinion, constructive criticism, or comments about my work.*
